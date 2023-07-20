@@ -9,7 +9,7 @@
 
 
 ## Educación
-### [Institucion Educativa Byron Gaviria] (2021)
+### Institucion Educativa Byron Gaviria (2021)
 - Título obtenido: Bachillerato & Tecnico en programación de software
 
 
