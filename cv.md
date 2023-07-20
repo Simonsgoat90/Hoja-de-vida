@@ -19,6 +19,6 @@
 - Resiliente
 
 ## Proyectos Destacados
-### [Eje Musical] (2021)
+### Eje Musical (2021)
 - Descripción: Este proyecto consitió en una red social la cual serviría para incentivar y promocionar a los artistas indepnedientes a nivel regional
 
